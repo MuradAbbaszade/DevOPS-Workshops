@@ -1,2 +1,2 @@
-# DevOPS-Workshops
+# DevOPS Workshops
 IATC DevOps Workshops
